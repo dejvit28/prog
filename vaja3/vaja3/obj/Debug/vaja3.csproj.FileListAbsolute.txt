@@ -1,0 +1,8 @@
+D:\WALKER\vaja3\vaja3\bin\Debug\vaja3.exe.config
+D:\WALKER\vaja3\vaja3\bin\Debug\vaja3.exe
+D:\WALKER\vaja3\vaja3\bin\Debug\vaja3.pdb
+D:\WALKER\vaja3\vaja3\obj\Debug\vaja3.csproj.AssemblyReference.cache
+D:\WALKER\vaja3\vaja3\obj\Debug\vaja3.csproj.SuggestedBindingRedirects.cache
+D:\WALKER\vaja3\vaja3\obj\Debug\vaja3.csproj.CoreCompileInputs.cache
+D:\WALKER\vaja3\vaja3\obj\Debug\vaja3.exe
+D:\WALKER\vaja3\vaja3\obj\Debug\vaja3.pdb
