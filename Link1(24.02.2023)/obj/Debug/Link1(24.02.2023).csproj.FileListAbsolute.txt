@@ -1,0 +1,8 @@
+D:\WALKER\Link1(24.02.2023)\obj\Debug\Link1(24.02.2023).csproj.AssemblyReference.cache
+D:\WALKER\Link1(24.02.2023)\obj\Debug\Link1(24.02.2023).csproj.SuggestedBindingRedirects.cache
+D:\WALKER\Link1(24.02.2023)\obj\Debug\Link1(24.02.2023).csproj.CoreCompileInputs.cache
+D:\WALKER\Link1(24.02.2023)\bin\Debug\Link1(24.02.2023).exe.config
+D:\WALKER\Link1(24.02.2023)\bin\Debug\Link1(24.02.2023).exe
+D:\WALKER\Link1(24.02.2023)\bin\Debug\Link1(24.02.2023).pdb
+D:\WALKER\Link1(24.02.2023)\obj\Debug\Link1(24.02.2023).exe
+D:\WALKER\Link1(24.02.2023)\obj\Debug\Link1(24.02.2023).pdb

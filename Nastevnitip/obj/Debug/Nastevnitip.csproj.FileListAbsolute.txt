@@ -1,0 +1,8 @@
+D:\WALKER\Nastevnitip\bin\Debug\Nastevnitip.exe.config
+D:\WALKER\Nastevnitip\bin\Debug\Nastevnitip.exe
+D:\WALKER\Nastevnitip\bin\Debug\Nastevnitip.pdb
+D:\WALKER\Nastevnitip\obj\Debug\Nastevnitip.csproj.AssemblyReference.cache
+D:\WALKER\Nastevnitip\obj\Debug\Nastevnitip.csproj.SuggestedBindingRedirects.cache
+D:\WALKER\Nastevnitip\obj\Debug\Nastevnitip.csproj.CoreCompileInputs.cache
+D:\WALKER\Nastevnitip\obj\Debug\Nastevnitip.exe
+D:\WALKER\Nastevnitip\obj\Debug\Nastevnitip.pdb

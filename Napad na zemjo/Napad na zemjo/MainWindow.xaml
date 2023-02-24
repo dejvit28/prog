@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Napad_na_zemjo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid RenderTransformOrigin="0.5,0.5">
+        Title="Napad na zemljo" Height="800" Width="1000">
+    <Window.Resources>
+        <ControlTemplate x:Key="predlogaSovražnika" TargetType="{x:Type ContentControl}">
+            <Grid>
+                <Ellipse HorizontalAlignment="Center" Height="100" Stroke="Black" VerticalAlignment="Center" Width="100" Fill="Red"></Ellipse>
+            </Grid>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid >
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="100"/>
             <ColumnDefinition Width="*"/>
@@ -17,16 +24,61 @@
             <RowDefinition/>
             <RowDefinition Height="100"/>
         </Grid.RowDefinitions>
-        <Grid.RenderTransform>
-            <TransformGroup>
-                <ScaleTransform/>
-                <SkewTransform/>
-                <RotateTransform Angle="-0.013"/>
-                <TranslateTransform/>
-            </TransformGroup>
-        </Grid.RenderTransform>
-        <TextBlock Grid.Column="1" HorizontalAlignment="Center" TextWrapping="WrapWithOverflow" Text="Napad na zemlji  " Width="350" TextAlignment="Center" Height="25" VerticalAlignment="Center"/>
-
-
+        
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" TextWrapping="WrapWithOverflow" Text="Napad na zemljo  " Width="350" TextAlignment="Center" VerticalAlignment="Center" FontSize="30" Height="37" FontWeight="Bold"/>
+        <Image Height="100" Width="100"/>
+        <Button x:Name="btnstart" Content="Start" Grid.Row="2" Click="btnstart_Click" Margin="0,17,0,17" Height="50" Width="80"/>
+        <ProgressBar x:Name="prgIgra" Grid.Column="1" Grid.Row="2" FontSize="16" Height="20"/>
+        <StackPanel Grid.Column="2" Orientation="Vertical" Grid.Row="2">
+            <StackPanel Orientation="Vertical">
+                <TextBlock TextWrapping="Wrap" Text="Izogibaj se" RenderTransformOrigin="0.5,0.5">
+                    
+                </TextBlock>
+                <ContentControl Height="81" RenderTransformOrigin="0.5,0.5">
+                    <ContentControl.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="-0.817"/>
+                            <RotateTransform/>
+                            <TranslateTransform X="-0.578"/>
+                        </TransformGroup>
+                    </ContentControl.RenderTransform>
+                    <Ellipse Height="81" Stroke="Black" VerticalAlignment="Top" Width="81" Fill="Red"/>
+                </ContentControl>
+            </StackPanel>
+        </StackPanel>
+        <Canvas x:Name="igralniDel" Grid.Row="1" Grid.ColumnSpan="3">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="white"/>
+                    <GradientStop Color="#FF9BD043" Offset="1"/>
+                    <GradientStop Color="#FFB3FF98" Offset="0.005"/>
+                    <GradientStop Color="#FFADADAD" Offset="0.513"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <StackPanel x:Name="človek">
+                <Ellipse Fill="White" Height="10" Width="10"/>
+                <Rectangle Fill="White" Height="25" Width="10"/>
+            </StackPanel>
+            <Rectangle Height="100" Canvas.Left="404" Stroke="Black" Canvas.Top="453" Width="100" RenderTransformOrigin="0.501,0.476">
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="51"/>
+                        <TranslateTransform X="1.828" Y="0.967"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+                <Rectangle.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <TextBlock Canvas.Left="257" TextWrapping="Wrap" Text="Konec igre" Canvas.Top="31" Foreground="White" FontSize="50" FontWeight="Bold" Visibility="Collapsed"/>
+        </Canvas>
     </Grid>
 </Window>
+
+    

@@ -1,0 +1,16 @@
+D:\WALKER\Napad na zemjo\Napad na zemjo\bin\Debug\Napad na zemjo.exe.config
+D:\WALKER\Napad na zemjo\Napad na zemjo\bin\Debug\Napad na zemjo.exe
+D:\WALKER\Napad na zemjo\Napad na zemjo\bin\Debug\Napad na zemjo.pdb
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo.csproj.AssemblyReference.cache
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo.csproj.SuggestedBindingRedirects.cache
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\MainWindow.g.cs
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\App.g.cs
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo_MarkupCompile.cache
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo_MarkupCompile.lref
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\MainWindow.baml
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo.g.resources
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad_na_zemjo.Properties.Resources.resources
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo.csproj.GenerateResource.cache
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo.csproj.CoreCompileInputs.cache
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo.exe
+D:\WALKER\Napad na zemjo\Napad na zemjo\obj\Debug\Napad na zemjo.pdb
