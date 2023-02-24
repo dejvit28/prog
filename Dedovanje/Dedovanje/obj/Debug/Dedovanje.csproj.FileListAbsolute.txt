@@ -1,0 +1,16 @@
+D:\PRO1sk2\Dedovanje\Dedovanje\bin\Debug\Dedovanje.exe.config
+D:\PRO1sk2\Dedovanje\Dedovanje\bin\Debug\Dedovanje.exe
+D:\PRO1sk2\Dedovanje\Dedovanje\bin\Debug\Dedovanje.pdb
+D:\PRO1sk2\Dedovanje\Dedovanje\obj\Debug\Dedovanje.csproj.AssemblyReference.cache
+D:\PRO1sk2\Dedovanje\Dedovanje\obj\Debug\Dedovanje.csproj.SuggestedBindingRedirects.cache
+D:\PRO1sk2\Dedovanje\Dedovanje\obj\Debug\Dedovanje.csproj.CoreCompileInputs.cache
+D:\PRO1sk2\Dedovanje\Dedovanje\obj\Debug\Dedovanje.exe
+D:\PRO1sk2\Dedovanje\Dedovanje\obj\Debug\Dedovanje.pdb
+D:\WALKER\Dedovanje\Dedovanje\obj\Debug\Dedovanje.csproj.AssemblyReference.cache
+D:\WALKER\Dedovanje\Dedovanje\obj\Debug\Dedovanje.csproj.SuggestedBindingRedirects.cache
+D:\WALKER\Dedovanje\Dedovanje\obj\Debug\Dedovanje.csproj.CoreCompileInputs.cache
+D:\WALKER\Dedovanje\Dedovanje\obj\Debug\Dedovanje.exe
+D:\WALKER\Dedovanje\Dedovanje\obj\Debug\Dedovanje.pdb
+D:\WALKER\Dedovanje\Dedovanje\bin\Debug\Dedovanje.exe.config
+D:\WALKER\Dedovanje\Dedovanje\bin\Debug\Dedovanje.exe
+D:\WALKER\Dedovanje\Dedovanje\bin\Debug\Dedovanje.pdb

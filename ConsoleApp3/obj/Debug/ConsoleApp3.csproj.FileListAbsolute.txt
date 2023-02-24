@@ -1,0 +1,8 @@
+D:\WALKER\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\WALKER\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\WALKER\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\WALKER\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\WALKER\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\WALKER\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\WALKER\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\WALKER\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
